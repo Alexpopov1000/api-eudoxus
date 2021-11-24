@@ -4,7 +4,7 @@ Let's make our lifes easier!
 
 The Administrators
 
-© @sudo455 & @Greekforce1821 ©
+© sudo455 & Greekforce1821 ©
 
 Donation
 
