@@ -6,8 +6,6 @@ The Administrators
 
 © @sudo455 & @Greekforce1821 ©
 
-
-
 Donation
 
 If this project help you reduce time to select your canon books, you can give us a cup of coffee ;)
