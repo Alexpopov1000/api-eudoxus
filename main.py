@@ -9,3 +9,14 @@
 
 #https://discord.com/developers/docs/topics/oauth2#bots
 
+
+#imports
+
+import json
+import main.json
+from api import api
+from discord.ext import commands
+#code..
+
+
+
